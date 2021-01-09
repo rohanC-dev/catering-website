@@ -4,7 +4,7 @@ body {
 }
 
 .blurb h2 {
-   color: #EA1C2C;
+   color: #ff5100;
    font-weight: 100;
    font-size: 2.5rem;
 }
@@ -31,16 +31,16 @@ body {
 }
 
 #mainNavbar .nav-link:hover {
-    color: #EA1C2C;
+    color: #ff5100;
 }
 
 #mainNavbar .navbar-brand {
-    color: #EA1C2C;
+    color: #ff5100;
     font-size: 1.5rem;
 }
 
 #headingGroup span {
-    color: #EA1C2C;
+    color: #ff5100;
 }
 
 #headingGroup h1 {
@@ -64,5 +64,18 @@ body {
 }
 
 
+/* .gallery-img{
+    padding-top: 50px;
+} */
 
 
+
+#zoom{
+    border: 10px solid white;
+}
+
+#gallery-img{
+    border: 10px solid white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
